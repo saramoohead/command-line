@@ -1,0 +1,2 @@
+The wc shell commands provides counts for lists or files. It follows the format of line count, word count and character count. 
+Note that a line is counted at the newline break, so if there is not a newline break at the end of the document, that line will not be counted.
